@@ -1,0 +1,47 @@
+{
+  "games": [
+    {
+      "id": "game-video-1",
+      "name": "Stealth Master",
+      "videos": [
+        {
+          "id": "game-video-1-v1",
+          "filename": "stealth_master.mov",
+          "duration": 0,
+          "billboards": [
+            {
+              "id": "billboard-1",
+              "x": 100,
+              "y": 100,
+              "width": 300,
+              "height": 200,
+              "rotation": 0,
+              "perspective": {
+                "topLeft": {
+                  "x": 207,
+                  "y": 30,
+                  "radius": 0
+                },
+                "topRight": {
+                  "x": 423,
+                  "y": 88,
+                  "radius": 0
+                },
+                "bottomLeft": {
+                  "x": 214,
+                  "y": 160,
+                  "radius": 0
+                },
+                "bottomRight": {
+                  "x": 412,
+                  "y": 223,
+                  "radius": 0
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

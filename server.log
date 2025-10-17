@@ -1,0 +1,866 @@
+::1 - - [02/Oct/2025 13:42:00] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:00] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:01] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:01] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:01] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:01] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:04] code 404, message File not found
+::1 - - [02/Oct/2025 13:42:04] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:42:19] code 404, message File not found
+::1 - - [02/Oct/2025 13:42:19] "GET /public/screenshots/uploaded-screenshot.png HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:42:23] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:23] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:23] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:23] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:23] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:23] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:26] code 404, message File not found
+::1 - - [02/Oct/2025 13:42:26] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:42:42] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:42] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:42] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:42] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:42] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:43] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:42:43] code 404, message File not found
+::1 - - [02/Oct/2025 13:42:43] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:44:36] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:36] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:36] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:36] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:36] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:36] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:37] code 404, message File not found
+::1 - - [02/Oct/2025 13:44:37] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:44:40] code 404, message File not found
+::1 - - [02/Oct/2025 13:44:40] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:44:40] "GET /public/screenshots/towngo_cherifer_ss_pc.png HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:55] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:44:57] code 404, message File not found
+::1 - - [02/Oct/2025 13:44:57] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:49:57] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:57] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:57] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:57] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:57] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:58] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:49:58] code 404, message File not found
+::1 - - [02/Oct/2025 13:49:58] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:51:42] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:42] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:42] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:42] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:42] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:42] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:51:43] code 404, message File not found
+::1 - - [02/Oct/2025 13:51:43] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:52:50] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:50] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:50] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:50] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:50] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:51] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:52:51] code 404, message File not found
+::1 - - [02/Oct/2025 13:52:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:53:30] code 404, message File not found
+::1 - - [02/Oct/2025 13:53:30] "GET /public/screenshots/uploaded-screenshot.png HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:53:33] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:33] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:33] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:33] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:33] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:33] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:53:34] code 404, message File not found
+::1 - - [02/Oct/2025 13:53:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 13:54:04] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:04] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:04] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:04] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:04] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:05] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 13:54:06] code 404, message File not found
+::1 - - [02/Oct/2025 13:54:06] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:11:24] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:24] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:24] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:24] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:24] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:25] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:11:26] code 404, message File not found
+::1 - - [02/Oct/2025 14:11:26] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:12:13] code 404, message File not found
+::1 - - [02/Oct/2025 14:12:13] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:13:12] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:12] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:12] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:12] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:12] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:13] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:13:14] code 404, message File not found
+::1 - - [02/Oct/2025 14:13:14] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:44:19] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:19] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:19] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:19] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:19] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:20] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:22] code 404, message File not found
+::1 - - [02/Oct/2025 14:44:22] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:44:23] "GET /public/screenshots/cooking_diary_cherifer_ss_mobile.png HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:44:27] code 404, message File not found
+::1 - - [02/Oct/2025 14:44:27] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:44:27] "GET /public/screenshots/towngo_cherifer_ss_pc.png HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 14:45:02] "GET / HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 14:45:05] code 404, message File not found
+::1 - - [02/Oct/2025 14:45:05] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:46:54] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:46:54] code 404, message File not found
+::1 - - [02/Oct/2025 14:46:54] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:51:07] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:07] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:07] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:07] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:07] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:07] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:51:08] code 404, message File not found
+::1 - - [02/Oct/2025 14:51:08] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 14:58:57] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:57] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:57] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:57] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:57] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:57] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 14:58:58] code 404, message File not found
+::1 - - [02/Oct/2025 14:58:58] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 15:02:06] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:06] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:06] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:06] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:06] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:06] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:02:07] code 404, message File not found
+::1 - - [02/Oct/2025 15:02:07] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 15:04:03] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:04:03] code 404, message File not found
+::1 - - [02/Oct/2025 15:04:03] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 15:06:45] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 15:06:45] code 404, message File not found
+::1 - - [02/Oct/2025 15:06:45] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:08:12] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:12] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:12] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:12] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:12] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:13] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:13] code 404, message File not found
+::1 - - [02/Oct/2025 19:08:13] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:08:17] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:17] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:17] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:17] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:17] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:17] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:08:18] code 404, message File not found
+::1 - - [02/Oct/2025 19:08:18] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:09:50] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:50] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:50] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:50] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:50] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:50] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:09:51] code 404, message File not found
+::1 - - [02/Oct/2025 19:09:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:13:45] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:45] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:45] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:45] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:45] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:46] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:13:46] code 404, message File not found
+::1 - - [02/Oct/2025 19:13:46] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:14:10] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:10] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:10] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:10] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:10] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:10] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:12] code 404, message File not found
+::1 - - [02/Oct/2025 19:14:12] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:14:21] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:21] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:21] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:21] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:21] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:21] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:14:22] code 404, message File not found
+::1 - - [02/Oct/2025 19:14:22] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:39:25] code 404, message File not found
+::1 - - [02/Oct/2025 19:39:25] "GET /public/screenshots/uploaded-screenshot.png HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:39:32] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:32] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:32] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:32] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:32] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:32] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:39:34] code 404, message File not found
+::1 - - [02/Oct/2025 19:39:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:39:35] code 404, message File not found
+::1 - - [02/Oct/2025 19:39:35] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:39:35] "GET /public/screenshots/towngo_cherifer_ss_pc.png HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 19:57:10] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:10] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:10] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:10] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:10] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:10] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:57:11] code 404, message File not found
+::1 - - [02/Oct/2025 19:57:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:58:44] code 404, message File not found
+::1 - - [02/Oct/2025 19:58:44] "GET /public/screenshots/uploaded-screenshot.png HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 19:59:01] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:01] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:01] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:01] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:01] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:02] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 19:59:02] code 404, message File not found
+::1 - - [02/Oct/2025 19:59:02] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:00:26] code 404, message File not found
+::1 - - [02/Oct/2025 20:00:26] "GET /public/screenshots/uploaded-screenshot.png HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:07:51] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:07:51] code 404, message File not found
+::1 - - [02/Oct/2025 20:07:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:11:19] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:11:19] code 404, message File not found
+::1 - - [02/Oct/2025 20:11:19] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:14:31] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:31] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:31] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:31] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:31] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:32] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:14:32] code 404, message File not found
+::1 - - [02/Oct/2025 20:14:32] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:18:44] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:44] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:44] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:44] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:44] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:45] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:18:45] code 404, message File not found
+::1 - - [02/Oct/2025 20:18:45] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:20:41] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:41] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:41] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:41] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:41] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:41] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:20:42] code 404, message File not found
+::1 - - [02/Oct/2025 20:20:42] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:22:15] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:15] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:15] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:15] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:15] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:16] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:22:16] code 404, message File not found
+::1 - - [02/Oct/2025 20:22:16] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:22:17] code 404, message File not found
+::1 - - [02/Oct/2025 20:22:17] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:26:15] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:15] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:15] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:15] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:15] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:16] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:26:16] code 404, message File not found
+::1 - - [02/Oct/2025 20:26:16] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:28:14] code 404, message File not found
+::1 - - [02/Oct/2025 20:28:14] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:30:10] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:10] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:10] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:10] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:10] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:11] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 20:30:11] code 404, message File not found
+::1 - - [02/Oct/2025 20:30:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 20:38:18] "GET / HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 20:38:18] "GET /js/custom-model.js HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 20:38:18] "GET /js/detection.js HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 20:38:18] "GET /js/app.js HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 21:48:26] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:26] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:26] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:26] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:26] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:26] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:27] code 404, message File not found
+::1 - - [02/Oct/2025 21:48:27] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 21:48:30] code 404, message File not found
+::1 - - [02/Oct/2025 21:48:30] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 21:48:30] "GET /public/screenshots/towngo_cherifer_ss_pc.png HTTP/1.1" 304 -
+::1 - - [02/Oct/2025 21:48:41] "GET / HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:41] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:41] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:41] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:41] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:41] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [02/Oct/2025 21:48:43] code 404, message File not found
+::1 - - [02/Oct/2025 21:48:43] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Oct/2025 21:48:44] code 404, message File not found
+::1 - - [02/Oct/2025 21:48:44] "GET /public/screenshots/city-racer-stadium.jpg HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:02:07] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:07] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:07] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:07] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:07] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:08] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:08] code 404, message File not found
+::1 - - [07/Oct/2025 11:02:08] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:02:13] "GET /public/screenshots/Tow%20N%20Go%203.png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:13] "GET /public/screenshots/Tow%20N%20Go.PNG HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:17] "GET /public/screenshots/Taxi%20Run(2).jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:17] "GET /public/screenshots/Taxi%20Run.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:20] "GET /public/screenshots/Stealth%20Master%20(2).png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:20] "GET /public/screenshots/StealthMaster.png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:23] "GET /public/screenshots/Sachin%20Saga%20Cricket%20Champions(2).png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:23] "GET /public/screenshots/Sachin%20Saga%20Cricket%20Champions.png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:23] "GET /public/screenshots/Sachin%20Saga%20Cricket%20Champions(3).png HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:44] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:45] code 404, message File not found
+::1 - - [07/Oct/2025 11:02:45] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:02:49] "GET /public/screenshots/Fork%20N%20Sausage%203.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:49] "GET /public/screenshots/Fork%20N%20Sausage%202.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:02:49] "GET /public/screenshots/Fork%20N%20Sausage.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:14] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:15] code 404, message File not found
+::1 - - [07/Oct/2025 11:11:15] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:11:20] "GET /public/screenshots/Baseball%20Clash.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:11:53] code 404, message File not found
+::1 - - [07/Oct/2025 11:11:53] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:12:11] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:11] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:11] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:11] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:11] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:12] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:12] code 404, message File not found
+::1 - - [07/Oct/2025 11:12:12] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:12:15] "GET /public/screenshots/Boom%20Karts%203.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:15] "GET /public/screenshots/Boom%20Karts%202.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:15] "GET /public/screenshots/Boom%20Karts.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:29] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:29] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:29] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:29] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:29] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:30] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:12:30] code 404, message File not found
+::1 - - [07/Oct/2025 11:12:30] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:13:10] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:10] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:10] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:10] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:10] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:11] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:13:11] code 404, message File not found
+::1 - - [07/Oct/2025 11:13:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:15:33] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:33] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:33] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:33] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:33] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:34] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:34] code 404, message File not found
+::1 - - [07/Oct/2025 11:15:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:15:37] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:15:59] code 404, message File not found
+::1 - - [07/Oct/2025 11:15:59] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:16:28] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:16:28] code 404, message File not found
+::1 - - [07/Oct/2025 11:16:28] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 11:56:02] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:02] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:02] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:02] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:02] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:02] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 11:56:03] code 404, message File not found
+::1 - - [07/Oct/2025 11:56:03] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 12:54:42] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:42] "GET /js/detection.js HTTP/1.1" 304 -
+::1 - - [07/Oct/2025 12:54:42] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:42] "GET /js/custom-model.js HTTP/1.1" 304 -
+::1 - - [07/Oct/2025 12:54:42] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:43] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:45] code 404, message File not found
+::1 - - [07/Oct/2025 12:54:45] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 12:54:54] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:54] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:54] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:54] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:54] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:54] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:54:55] code 404, message File not found
+::1 - - [07/Oct/2025 12:54:55] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 12:55:00] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:08] code 404, message File not found
+::1 - - [07/Oct/2025 12:55:08] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 12:55:11] "GET /public/screenshots/Airplane%20Game%20Flight%20Simulator.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 12:55:11] "GET /public/screenshots/Airplane%20Game%20Flight%20Simulator(2).jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:43] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:43] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:43] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:44] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:44] code 404, message File not found
+::1 - - [07/Oct/2025 17:08:44] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:08:47] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:47] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:47] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:47] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:47] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:47] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:08:48] code 404, message File not found
+::1 - - [07/Oct/2025 17:08:48] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:09:17] code 404, message File not found
+::1 - - [07/Oct/2025 17:09:17] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:10:43] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:43] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:43] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:43] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:43] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:43] code 404, message File not found
+::1 - - [07/Oct/2025 17:10:43] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:10:43] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:44] code 404, message File not found
+::1 - - [07/Oct/2025 17:10:44] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:10:46] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:10:47] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:11] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:11] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:11] code 404, message File not found
+::1 - - [07/Oct/2025 17:13:11] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:13:11] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:11] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:11] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:12] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:12] code 404, message File not found
+::1 - - [07/Oct/2025 17:13:12] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:13:16] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:17] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:13:25] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:27] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] code 404, message File not found
+::1 - - [07/Oct/2025 17:15:41] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:15:41] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:41] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:42] code 404, message File not found
+::1 - - [07/Oct/2025 17:15:42] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:15:44] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:15:44] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:00] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:50] code 404, message File not found
+::1 - - [07/Oct/2025 17:16:50] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:16:50] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:52] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:16:53] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:17:10] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:18:44] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:03] code 404, message File not found
+::1 - - [07/Oct/2025 17:21:03] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:21:03] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:04] code 404, message File not found
+::1 - - [07/Oct/2025 17:21:04] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:21:07] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:21:09] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] code 404, message File not found
+::1 - - [07/Oct/2025 17:22:03] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:22:03] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:03] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:04] code 404, message File not found
+::1 - - [07/Oct/2025 17:22:04] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:22:08] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:22:09] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] code 404, message File not found
+::1 - - [07/Oct/2025 17:23:31] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:23:31] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:31] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:32] code 404, message File not found
+::1 - - [07/Oct/2025 17:23:32] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:23:34] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:23:35] "GET /public/screenshots/Age%20of%20Robots.jpg HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:40] code 404, message File not found
+::1 - - [07/Oct/2025 17:38:40] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:38:41] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:38:41] code 404, message File not found
+::1 - - [07/Oct/2025 17:38:41] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:40:09] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:09] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:09] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:09] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:09] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:09] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:10] code 404, message File not found
+::1 - - [07/Oct/2025 17:40:10] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:40:14] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:40:14] code 404, message File not found
+::1 - - [07/Oct/2025 17:40:14] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:41:13] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:13] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:13] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:13] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:13] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:15] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:41:15] code 404, message File not found
+::1 - - [07/Oct/2025 17:41:15] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:42:52] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:52] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:52] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:52] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:52] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:52] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:42:53] code 404, message File not found
+::1 - - [07/Oct/2025 17:42:53] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [07/Oct/2025 17:43:50] "GET / HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:50] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:50] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:50] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:50] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:51] "GET /data/games.json HTTP/1.1" 200 -
+::1 - - [07/Oct/2025 17:43:51] code 404, message File not found
+::1 - - [07/Oct/2025 17:43:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:02:38] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:38] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:38] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:38] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:38] "GET /js/custom-model.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 14:02:40] "GET /data/config.json?t=1760517160743 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:40] "GET /data/games.json?t=1760517160822 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:02:40] code 404, message File not found
+::1 - - [15/Oct/2025 14:02:40] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:04:06] "GET /public/screenshots/cooking_diary_cherifer_ss_mobile.png HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:04:06] "GET /public/screenshots/Cooking%20Diary%202.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:04:11] "GET /public/screenshots/Dragon%20City%202.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:04:11] "GET /public/screenshots/Dragon%20City.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:17] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:17] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:17] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:17] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:17] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:18] "GET /data/config.json?t=1760517438118 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:18] "GET /data/games.json?t=1760517438184 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:07:18] code 404, message File not found
+::1 - - [15/Oct/2025 14:07:18] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:10:51] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /data/config.json?t=1760517651830 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:51] "GET /data/games.json?t=1760517651920 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:10:52] code 404, message File not found
+::1 - - [15/Oct/2025 14:10:52] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:12:25] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /data/config.json?t=1760517745831 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:25] "GET /data/games.json?t=1760517745894 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:27] code 404, message File not found
+::1 - - [15/Oct/2025 14:12:27] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:12:30] "GET /public/screenshots/Boom%20Karts%202.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:30] "GET /public/screenshots/Boom%20Karts.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:30] "GET /public/screenshots/Boom%20Karts%203.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /data/config.json?t=1760517772143 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] "GET /data/games.json?t=1760517772157 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:12:52] code 404, message File not found
+::1 - - [15/Oct/2025 14:12:52] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:14:54] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /data/config.json?t=1760517894711 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:54] "GET /data/games.json?t=1760517894775 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:14:55] code 404, message File not found
+::1 - - [15/Oct/2025 14:14:55] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:36:21] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /data/config.json?t=1760519181757 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:21] "GET /data/games.json?t=1760519181816 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:22] code 404, message File not found
+::1 - - [15/Oct/2025 14:36:22] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:36:26] "GET /public/screenshots/EMHQ.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:26] "GET /public/screenshots/EMHQ(3).jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:36:26] "GET /public/screenshots/EMHQ(2).jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:11] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:11] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:11] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:11] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:11] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:12] "GET /data/config.json?t=1760519232161 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:12] "GET /data/games.json?t=1760519232219 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:37:12] code 404, message File not found
+::1 - - [15/Oct/2025 14:37:12] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:42:01] "GET /public/screenshots/Baseball%20Clash.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /data/config.json?t=1760520183585 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:03] "GET /data/games.json?t=1760520183656 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:05] code 404, message File not found
+::1 - - [15/Oct/2025 14:53:05] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:53:20] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:20] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:21] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:21] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:21] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:21] "GET /data/config.json?t=1760520201083 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:21] "GET /data/games.json?t=1760520201102 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:22] code 404, message File not found
+::1 - - [15/Oct/2025 14:53:22] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:53:52] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /data/config.json?t=1760520232514 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:52] "GET /data/games.json?t=1760520232532 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:53:53] code 404, message File not found
+::1 - - [15/Oct/2025 14:53:53] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:54:34] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:54:34] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:54:34] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:54:34] "GET /js/custom-model.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 14:54:34] "GET /js/detection.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 14:54:34] "GET /data/config.json?t=1760520274815 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:54:34] "GET /data/games.json?t=1760520274863 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:54:34] code 404, message File not found
+::1 - - [15/Oct/2025 14:54:34] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:57:25] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /data/config.json?t=1760520445362 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] "GET /data/games.json?t=1760520445365 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:57:25] code 404, message File not found
+::1 - - [15/Oct/2025 14:57:25] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:58:30] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /data/config.json?t=1760520510244 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] "GET /data/games.json?t=1760520510246 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:30] code 404, message File not found
+::1 - - [15/Oct/2025 14:58:30] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 14:58:46] "GET /js/app.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 14:58:46] "GET /data/config.json?t=1760520526302 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:46] "GET /data/games.json?t=1760520526306 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:56] "GET /public/screenshots/Dragon%20City%202.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 14:58:56] "GET /public/screenshots/Dragon%20City.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /data/config.json?t=1760521069205 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] "GET /data/games.json?t=1760521069208 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:49] code 404, message File not found
+::1 - - [15/Oct/2025 15:07:49] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:07:52] "GET /public/screenshots/Cooking%20Diary%202.jpg HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:07:52] "GET /public/screenshots/cooking_diary_cherifer_ss_mobile.png HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /data/config.json?t=1760521087450 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] "GET /data/games.json?t=1760521087453 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:07] code 404, message File not found
+::1 - - [15/Oct/2025 15:08:07] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:08:31] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:31] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:31] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:31] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:31] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:32] "GET /data/config.json?t=1760521112064 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:32] "GET /data/games.json?t=1760521112066 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:08:32] code 404, message File not found
+::1 - - [15/Oct/2025 15:08:32] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:09:01] "GET /js/app.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 15:09:01] "GET /data/config.json?t=1760521141790 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:01] "GET /data/games.json?t=1760521141794 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /data/config.json?t=1760521195955 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:55] "GET /data/games.json?t=1760521195957 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:56] code 404, message File not found
+::1 - - [15/Oct/2025 15:09:56] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:09:58] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /data/config.json?t=1760521198988 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:58] "GET /data/games.json?t=1760521198990 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:09:59] code 404, message File not found
+::1 - - [15/Oct/2025 15:09:59] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:12:22] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:22] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:22] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:22] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:22] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:23] "GET /data/config.json?t=1760521343036 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:23] "GET /data/games.json?t=1760521343038 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:12:23] code 404, message File not found
+::1 - - [15/Oct/2025 15:12:23] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:13:05] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:05] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:05] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:05] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:05] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:06] "GET /data/config.json?t=1760521386119 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:06] "GET /data/games.json?t=1760521386122 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:13:06] code 404, message File not found
+::1 - - [15/Oct/2025 15:13:06] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:41:05] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:05] "GET /css/styles.css HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 15:41:05] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:05] "GET /data/config.json?t=1760523065474 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:05] "GET /data/games.json?t=1760523065538 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:05] code 404, message File not found
+::1 - - [15/Oct/2025 15:41:05] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:41:09] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /data/config.json?t=1760523069675 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:09] "GET /data/games.json?t=1760523069678 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:10] code 404, message File not found
+::1 - - [15/Oct/2025 15:41:10] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [15/Oct/2025 15:41:52] "GET / HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 15:41:52] "GET /js/app.js HTTP/1.1" 304 -
+::1 - - [15/Oct/2025 15:41:52] "GET /data/config.json?t=1760523112464 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:52] "GET /data/games.json?t=1760523112482 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET / HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /css/styles.css HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /js/detection.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /js/custom-model.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /js/app.js HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /data/config.json?t=1760523117225 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] "GET /data/games.json?t=1760523117229 HTTP/1.1" 200 -
+::1 - - [15/Oct/2025 15:41:57] code 404, message File not found
+::1 - - [15/Oct/2025 15:41:57] "GET /favicon.ico HTTP/1.1" 404 -
