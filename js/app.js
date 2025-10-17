@@ -4960,7 +4960,7 @@ async function verifyPasscode() {
 
 // GitHub configuration
 const GITHUB_OWNER = 'djlord7';
-const GITHUB_REPO = 'ad-banner-screenshot-generator';
+const GITHUB_REPO = 'ad-banner-screenshot-generator-v2';
 const GITHUB_BRANCH = 'main';
 const GAMES_JSON_PATH = 'data/games.json';
 const CONFIG_JSON_PATH = 'data/config.json';
