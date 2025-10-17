@@ -1809,7 +1809,20 @@ function handleVideoBannerUpload(e, billboardIndex) {
 
     videoElement.onerror = () => {
         console.error('Failed to load banner video');
-        statusDiv.textContent = '❌ Failed to load';
+        statusDiv.innerHTML = `
+            <div style="color: #ef4444; font-size: 13px; margin-bottom: 8px;">
+                ❌ Video format not supported
+            </div>
+            <div style="font-size: 12px; color: #64748b; margin-bottom: 8px;">
+                Please convert to MP4 first:
+            </div>
+            <a href="https://www.freeconvert.com/video-converter"
+               target="_blank"
+               style="display: inline-block; padding: 6px 12px; background: #3b82f6; color: white;
+                      text-decoration: none; border-radius: 4px; font-size: 12px; font-weight: 500;">
+                🔧 Convert Video (Free)
+            </a>
+        `;
         statusDiv.style.color = '#ef4444';
     };
 }
