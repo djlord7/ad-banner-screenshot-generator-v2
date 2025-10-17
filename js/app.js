@@ -836,19 +836,6 @@ function displayVideoGallery() {
                 imgElement.style.objectFit = 'contain';
                 videoDiv.innerHTML = '';
                 videoDiv.appendChild(imgElement);
-
-                // Add play icon overlay
-                const playIcon = document.createElement('div');
-                playIcon.innerHTML = '▶';
-                playIcon.style.position = 'absolute';
-                playIcon.style.top = '50%';
-                playIcon.style.left = '50%';
-                playIcon.style.transform = 'translate(-50%, -50%)';
-                playIcon.style.fontSize = '48px';
-                playIcon.style.color = 'white';
-                playIcon.style.textShadow = '0 2px 8px rgba(0,0,0,0.5)';
-                playIcon.style.pointerEvents = 'none';
-                videoDiv.appendChild(playIcon);
             } else {
                 videoDiv.innerHTML = '<span>🎬 Video Preview</span>';
             }
