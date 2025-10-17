@@ -3025,10 +3025,27 @@ async function handleVideoDownload() {
         }, 2000);
 
         console.log('✅ Video download completed');
+
+        // Restart video playback loop
+        gameplayVideo.currentTime = 0;
+        Object.values(bannerVideoElements).forEach(v => v.currentTime = 0);
+        await new Promise(resolve => setTimeout(resolve, 100));
+        startVideoPlaybackLoop();
+        console.log('▶️ Video playback loop restarted');
     } catch (error) {
         console.error('❌ Error during video download:', error);
         alert('Error downloading video: ' + error.message);
         progressContainer.style.display = 'none';
+
+        // Restart video playback on error too
+        try {
+            gameplayVideo.currentTime = 0;
+            Object.values(bannerVideoElements).forEach(v => v.currentTime = 0);
+            await new Promise(resolve => setTimeout(resolve, 100));
+            startVideoPlaybackLoop();
+        } catch (e) {
+            console.error('Failed to restart playback:', e);
+        }
     } finally {
         // Reset recording flag to show billboard outlines again
         isRecording = false;
